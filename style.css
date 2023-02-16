@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    display: block;
+}
+
+table, th, tr {
+    width: 850px;
+    height: 50px;
+    border-collapse: collapse;
+    border: 1px solid darkred;
+    margin: 0 auto;
+}
+
+caption {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: teal;
+}
+
+th, tr {
+    padding: 5px;
+}
+
+td {
+    font-size: 14px;
+    padding: 5px;
+}
+
+.tagCol {
+    background-color: yellow;
+    font-size: 14px;
+}
